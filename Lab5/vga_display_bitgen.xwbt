@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=X:\My Documents\Xilinx Labs\Lab5\vga_display.ncd
+OUTFILE=X:\My Documents\Xilinx Labs\Lab5\vga_display.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=X:\My Documents\Xilinx Labs\Lab5
+LICENSE=ISE
+USER_INFO=174135685_174135686_210617260_121

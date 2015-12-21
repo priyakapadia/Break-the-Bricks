@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=X:\My Documents\Xilinx Labs\Lab5\impact.xsl
+OUTFILE=X:\My Documents\Xilinx Labs\Lab5\impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=X:\My Documents\Xilinx Labs\Lab5
+LICENSE=iMPACT
+USER_INFO=iMPACT
